@@ -81,8 +81,8 @@ ts-forecasting-hub/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/ts-forecasting-hub.git
-cd ts-forecasting-hub
+git clone https://github.com/arshraj-r/timeseries-forecasting-hub.git
+cd ttimeseries-forecasting-hub
 
 # Install dependencies
 pip install -r requirements.txt
