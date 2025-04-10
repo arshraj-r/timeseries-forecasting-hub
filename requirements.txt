@@ -30,3 +30,7 @@ optuna
 # jupyterlab
 notebook
 tqdm
+
+#load data
+pandas-datareader
+wbdata

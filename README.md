@@ -45,6 +45,12 @@ A comprehensive repository exploring various time series forecasting models, fro
 ---
 
 ## 📂 Directory Structure
+- notebooks/: exploratory training/testing
+- src/: shared utilities (general-purpose)
+- models/: model-specific code (modular, isolated logic)
+
+- results/: output forecasts, plots, metrics
+- experiments/: config-driven workflows (for automation)
 
 ```bash
 ts-forecasting-hub/
