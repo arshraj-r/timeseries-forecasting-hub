@@ -1,10 +1,4 @@
-Absolutely! Here's a clean, professional, and informative version of the `README.md` for your **Time Series Forecasting Hub** project:
 
----
-
-### ✅ `README.md`
-
-```markdown
 # 📈 Time Series Forecasting Hub
 
 A comprehensive repository exploring various time series forecasting models, from traditional statistical techniques to advanced deep learning architectures. The goal is to build, test, and compare forecasting methods across multiple datasets to better understand their strengths and use cases.
