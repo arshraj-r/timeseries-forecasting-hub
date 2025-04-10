@@ -151,4 +151,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💡 Author
 
-Maintained by **[Your Name](https://github.com/yourusername)**
+Maintained by **[Arshraj Randhawa](https://github.com/arshraj-r)**
